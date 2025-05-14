@@ -50,13 +50,12 @@ This project is licensed under the **MIT License**
 
 For any inquiries, please contact:
 
-* **\Kai-Ti Wu** — \kaitiwu1@gmail.com
-* **\Humboldt University Berlin**
+* **Kai-Ti Wu** — kaitiwu1@gmail.com
 
 ---
 
 ## **Acknowledgments**
 
-I gratefully acknowledge the support of my supervisor and colleagues especially during my time working at **\Leibniz IGB River System Modelling Group**.
+I gratefully acknowledge the support of my supervisor and colleagues especially during my time working at **Leibniz IGB River System Modelling Group**.
 
 --
