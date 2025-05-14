@@ -1,4 +1,4 @@
-# **\Linking social media data with geospatial information to analyse changes in human sentiments in along surface water environments**
+# **Linking social media data with geospatial information to analyse changes in human sentiments in along surface water environments**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Status: Under Review](https://img.shields.io/badge/Status-Under%20Review-yellow.svg)]()
